@@ -5,7 +5,7 @@
 I am a dedicated Multimedia Technology undergraduate with a proven ability to bridge **Technical Development** and **Creative Production**. Whether it's building complex game mechanics or designing custom digital assets, I focus on creating immersive and impactful digital experiences.
 
 <p align="left">
-<a href="[https://linkedin.com/in/arlonso-nazarius](https://www.google.com/search?q=https://linkedin.com/in/arlonso-nazarius)" target="_blank">
+<a href="[https://linkedin.com/in/arlonso-nazarius](https://www.google.com/search?q=https://linkedin.com/in/arlonso-nazarius)" target=" https://linkedin.com/in/arlonso-nazarius ">
 <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" />
 </a>
 <a href="mailto:arlonso001@gmail.com">
